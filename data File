@@ -1,0 +1,6 @@
+Packet Flow, Base (Bytes), Blockchain-based (Bytes)
+Miner to the cloud, 25, 58
+Devices to the miner, 20, 45
+Cloud to the miner, 15, 35
+Miner to On-vehicle Storage, 30, 70
+On-vehicle Storage to devices, 22, 50
