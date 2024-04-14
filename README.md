@@ -1,4 +1,4 @@
-# Chain Links on Wheels: A Security Scheme for IoV Connectivity through Blockchain Integration
+# A Security Scheme for IoV Connectivity through Blockchain Integration
 This repository contains code and data used for the performance evaluation of a blockchain-based Internet of Vehicles (IoV) architecture. The research aims to assess the computational and packet overhead incurred by the blockchain-based IoV architecture compared to a baseline method that handles transactions without encryption, hashing, and blockchain.
 
 Key Features:
